@@ -6,7 +6,7 @@
 
 **GitHub Repo:** https://github.com/kfmrc0/Project-0-GitReady
 
-**Screencast Video:** [link to video]  
+**Screencast Video:** https://youtu.be/nVSWCEfwDrk?feature=shared
 
 **Screencast Software:** NVIDIA
 
